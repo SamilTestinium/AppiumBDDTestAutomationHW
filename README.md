@@ -1,7 +1,3 @@
-
-
-This is a mobile automation project focused on gauge usage.
-
 <!-- ABOUT THE PROJECT -->
 ## Appium BDD Test Automation
 
