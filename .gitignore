@@ -1,0 +1,7 @@
+/.idea/
+.gauge
+user.properties
+logs
+reports
+target
+env

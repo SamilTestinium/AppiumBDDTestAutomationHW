@@ -1,0 +1,23 @@
+# One-Way seçimini yap
+* "2" saniye kadar bekle
+* One-way tabını seç.
+
+# Kalkış yeri için <text> seçimini yap
+* "1" saniye kadar bekle
+* Kalkış yeri seçimine tıkla
+* "1" saniye kadar bekle
+* <text> textiyle konum yeri araması yap ve rastgele bir havaalanı seç
+
+# Varış yeri için <text> seçimi yap
+* Varış yeri seçimine tıkla
+* <text> textiyle konum yeri araması yap ve rastgele bir havaalanı seç
+
+# <text> textiyle konum yeri araması yap ve rastgele bir havaalanı seç
+* <text> textini konum aramasına yaz ve rastgele bir element seç
+
+# Uçuş tarihini <days> gün sonrasına ayarla.
+* Uçuş tarihi seçimine tıkla
+* <days> gün sonranın tarihini seç
+
+# Uçuş ara
+* Uçuş aramasına tıkla

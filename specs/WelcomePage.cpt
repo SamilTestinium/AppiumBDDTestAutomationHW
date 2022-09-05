@@ -1,0 +1,12 @@
+# Uygulamanın açıldığından emin ol
+* Location izninin ekranda olduğunu kontrol et.
+
+# Ana sayfayi aç
+* Konum izin ekranını atla
+* Hoşgeldiniz sliderını atla
+* "2" saniye kadar bekle
+* Bildirim izin pop upını kapat
+
+# Bilet seçimini aç
+* "3" saniye kadar bekle
+* Bilet seçmek için booking tabına geç
